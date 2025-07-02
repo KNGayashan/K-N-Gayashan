@@ -88,7 +88,7 @@ const techStackImgs = [
           imgPath: "/images/logos/react.png",
      },
      {
-          name: "Python Developer",
+          name: "Database Manager",
           imgPath: "/images/logos/mongodb.svg",
      },
      {
